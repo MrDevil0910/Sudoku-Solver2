@@ -1,0 +1,2 @@
+# Sudoku-Solver
+A Sudoku Solver is a program that enables us to solves Sudoku puzzles and provide solution of the puzzle, which are popular logic-based number placement games. It is based on Backtracking Algorithm. The project typically involves using algorithms to fill a 9x9 grid with digits so that each column, each row, and each of the nine 3x3 subgrids contain all of the digits from 1 to 9 without repetition. I have used HTML ,CSS ,JS and C++ code to build the game with the help of API which provide the difficulty level of the puzzle.
